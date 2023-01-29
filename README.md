@@ -2,7 +2,7 @@
 <h3 align="center">A passionate python developer from Pakistan! Currently I am working on web scraping.</h3>
 <img align="right" alt="coding" width="400" src="https://www.iwebscraping.com/images/python_web_scraping.gif"
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="centre">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-zubair-tahir-5768b9228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-zubair-tahir-5768b9228" height="30" width="40" /></a>
 <a href="https://kaggle.com/mzubairtahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mzubairtahir" height="30" width="40" /></a>
