@@ -1,5 +1,5 @@
 ### Hey there, I'm  M. Zubair Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I am a passionate python developer. I have done some projects in it like a game and command base library management system. Currently, I'm working on web scraping. I have already developed so many web scrapers. I help people to get data in structured form from their desired web location.</p>
+<p>I am a passionate python developer. I have done some projects in it like a game and command base library management system. Currently, I'm working on web scraping. I have already developed so many web scrapers. I help people to get data in structured form from their desired web location.I have uploaded some of my projects here.</p>
 
 
 <div align="center">
