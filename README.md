@@ -1,5 +1,5 @@
 ### Hey there, I'm  M. Zubair Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I am a passionate python developer. I have done some projects in it like a game and command base library management system. Currently, I'm working on web scraping. I have already developed so many web scrapers. I help people to get data in structured form from their desired web location.I have uploaded some of my projects here.</p>
+<p>I am a experienced python programmer. Currently, I'm working in web scraping. I have already developed so many web scrapers. I help clients to get data in structured form from their desired web location.I have uploaded some of my projects here.</p>
 
 
 <div align="center">
@@ -32,11 +32,10 @@
 - ✔ Freelancer
    
 ### My skills 🛠
-👉 Scraping by using python libraries i.e, Request, Bs4 and selenium<br>
+👉 Scraping by using python libraries i.e, Request, Bs4, playwright and selenium<br>
 👉 Scraping dynamic and static websies<br>
 👉 Cleaned and efficient data<br>
 👉 Output in JSON/CSV/Excel<br>
-👉 Build scraper with gui<br>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
