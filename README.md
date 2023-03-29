@@ -1,5 +1,5 @@
 ### Hey there, I'm  M. Zubair Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I am a experienced python programmer. Currently, I'm working in web scraping. I have already developed so many web scrapers. I help clients to get data in structured form from their desired web location.I have uploaded some of my projects here.</p>
+<p>I am a experienced python programmer. Currently, I'm working in web scraping. I have already developed so many web scrapers. I help clients to get data in structured form from their desired web location.I have uploaded some of my projects here. Cannot upload other scrapers due to some reason.</p>
 
 
 <div align="center">
