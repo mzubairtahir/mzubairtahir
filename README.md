@@ -1,5 +1,5 @@
 ### Hey there, I'm  M. Zubair Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
-<p>I am a experienced python programmer. Currently, I'm working in web scraping. I have already developed so many web scrapers. I help clients to get data in structured form from their desired web location.I have uploaded some of my projects here. Cannot upload other scrapers due to some reason.</p>
+<p>I am a experienced python programmer. Currently, working in web scraping. I have developed so many web scrapers. I help otheres to get data in structured form from their desired web location.I have uploaded some of my projects here. Cannot upload other scrapers due to some reason.</p>
 
 
 <div align="center">
@@ -7,16 +7,6 @@
 
 <a href="https://linkedin.com/in/muhammad-zubair-tahir-5768b9228">
     <img width="32" height="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
-</a>
-
-
-<a href="https://kaggle.com/mzubairtahir">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" />
-</a>
-   
-
-<a href="https://www.hackerrank.com/m_zubairtahir001">
-    <img width="32" height="32" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
 </div>
 <br>
@@ -30,16 +20,16 @@
 - 💻 Python developer
 - ⚡ web Scraping
 - ✔ Freelancer
+- ✔ Persuing Data science
+
    
 ### My skills 🛠
 👉 Scraping by using python libraries i.e, Request, Bs4, playwright and selenium<br>
+👉 can build Multi-threading scrapers
 👉 Scraping dynamic and static websies<br>
 👉 Cleaned and efficient data<br>
 👉 Output in JSON/CSV/Excel<br>
 <br>
 <div align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 </div>
-
-
