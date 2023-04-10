@@ -34,4 +34,4 @@
 </a>
 </div>
 <br>
-<div><strong>Note:</strong> You can conact me to build custom scrapers </div>
+<div><strong>Note:</strong> You can contact me to build custom scrapers </div>
