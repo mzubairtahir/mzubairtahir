@@ -33,3 +33,5 @@
        <img width="32" height="32" src="https://th.bing.com/th/id/OIP.rHUnyNRNkBKVEK4HlTzCgQAAAA?pid=ImgDet&rs=1" />
 </a>
 </div>
+<br>
+<div><strong>Note:</strong> You can conact me to build custom scrapers </div>
