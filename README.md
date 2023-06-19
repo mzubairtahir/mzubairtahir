@@ -1,4 +1,4 @@
-A tech enthusiast with a deep interest Automation, Ai and building tools 👨‍💻🤖
+A tech enthusiast with a deep interest Automation, Ai and building solutions 👨‍💻🤖
 
 Want to know more?
 Check my social links: 
