@@ -1,14 +1,12 @@
-A tech enthusiast with a deep interest in Automation, web and building solutions 👨‍💻🤖
+A tech enthusiast with a deep interest in Automation, web, and building solutions 👨‍💻🤖
 
 Want to know more?
-Check my social links: 
+Check my linkedin: 
 <br>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mzubairtahir07" target="_blank" style="text-decoration: none; display: inline-block;">
         <img src="images/linkedin.png" alt="LinkedIn" style="width: 30px; height: 30px;">
     </a>
-    <a href="https://www.facebook.com/mzubartahir" target="_blank" style="text-decoration: none; display: inline-block; margin-left: 10px;">
-        <img src="images/facebook.png" alt="Facebook" style="width: 30px; height: 30px;">
-    </a>
+    
 </div>
