@@ -1,7 +1,7 @@
 A tech enthusiast with a deep interest in Automation, web, and building solutions 👨‍💻🤖
 
 Want to know more?
-Check my linkedin: 
+Check my LinkedIn: 
 <br>
 
 <div align="center">
@@ -10,3 +10,6 @@ Check my linkedin:
     </a>
     
 </div>
+
+## Note:
+I'm currently actively creating and uploading tools related to web scraping and automation on my GitHub page, [Zubdata](https://github.com/Zubdata). Due to this, there haven't been recent uploads on my personal profile.
